@@ -8,5 +8,5 @@ enum Confirm: int
     case Fail = 0;
     case Ok = 1;
     case Already = 2;
-    case error = 3;
+    case Error = 3;
 }
